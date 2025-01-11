@@ -1,6 +1,6 @@
 This is an IOS application to change the UI of an app screen using a button.
 Check this GIF out of the app:
-[app](https://imgur.com/a/mercy-prework-wB4dhUc)
+[APP_LINK](https://imgur.com/a/mercy-prework-wB4dhUc)
 
 
 App BrainStorming
